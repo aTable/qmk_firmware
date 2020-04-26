@@ -1,0 +1,1 @@
+make massdrop/ctrl:aTable && mv massdrop_ctrl_aTable.bin ~/Downloads/mdload
